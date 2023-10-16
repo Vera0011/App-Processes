@@ -1,0 +1,20 @@
+
+Error al abrir un proceso: -------- An error occurred trying to start process 'bash.exe' with working directory 'E:\PSEP\UT1\Ejercicios\ex3'. El sistema no puede encontrar el archivo especificado.
+Proceso eliminado correctamente
+Error al abrir un proceso: -------- An error occurred trying to start process 'Input' with working directory 'E:\PSEP\UT1\Ejercicios\ex3'. El sistema no puede encontrar el archivo especificado.
+No se ha cerrado ningún proceso
+Error al abrir un proceso: -------- An error occurred trying to start process 'Input' with working directory 'E:\PSEP\UT1\Ejercicios\ex3'. El sistema no puede encontrar el archivo especificado.
+No se ha cerrado ningún proceso
+Error al abrir un proceso: -------- An error occurred trying to start process 'Input' with working directory 'E:\PSEP\UT1\Ejercicios\ex3'. El sistema no puede encontrar el archivo especificado.
+Proceso creado correctamente
+Proceso eliminado correctamente
+No se ha cerrado ningún proceso
+No se ha cerrado ningún proceso
+No se ha cerrado ningún proceso
+No se ha cerrado ningún proceso
+No se ha cerrado ningún proceso
+No se ha cerrado ningún proceso
+Proceso creado correctamente
+Proceso eliminado correctamente
+Proceso creado correctamente
+Proceso eliminado correctamente
